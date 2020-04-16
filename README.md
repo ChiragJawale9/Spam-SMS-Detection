@@ -1,4 +1,4 @@
-# Spam-SMS-Detection
+# Spam_SMS_Detection
 The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. 
 It contains one set of SMS messages in English of 5,577 messages, tagged acording being ham (legitimate) or spam
 
